@@ -1,0 +1,44 @@
+.formConversao{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.formConversao h2{
+    color: rgb(132, 134, 136);
+}
+
+.formConversao span{
+    color: #9CDCFE;
+}
+
+.submit{
+    width: 100%;
+    margin: 20px 0px 0px 0px;
+    text-align: center;
+}
+
+.submit input{
+    width: 200px;
+    height: 25px;
+    border: none;
+    outline: none;
+    background-color: #333333;
+    margin: 0px 5px 0px 0px;
+    color: aliceblue;
+}
+
+.submit button{
+    width: 80px;
+    height: 25px;
+    cursor: pointer;
+}
+
+.result{
+    text-align: center;
+    margin: 20px 0px 0px 0px;
+}
+
+.result h2{
+    color: #0D993A;
+}
